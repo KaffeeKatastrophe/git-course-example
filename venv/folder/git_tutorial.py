@@ -1,4 +1,5 @@
 def add_numbers(a,b,c):
+    "Retur the sum of a,b,c"
     return a + b + c
 
 def calc_difference(a,b):
